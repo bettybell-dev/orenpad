@@ -15,6 +15,10 @@ orenpad is a simple, offline-first writing app made for novelists who want their
 
 No account. No cloud. No ads.
 
+</td>
+</tr>
+<table>
+
 ## Features
 
 - Novel & chapter management
