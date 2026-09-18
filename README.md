@@ -1,4 +1,4 @@
-## orenpad
+# orenpad
 
 A lightweight novel-writing app for Android
 
@@ -30,7 +30,7 @@ Screenshots coming soon.
 
 # Download
 
-The latest version is available from the [Releases](.
+The latest version is available from the [Releases](https://github.com/bettybell-dev/orenpad/releases/tag/0.2.0).
 
 Android
 
