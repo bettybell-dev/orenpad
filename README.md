@@ -1,4 +1,11 @@
-# orenpad
+# Orenpad
+
+<table>
+<tr>
+<td width="180">
+<img src="assets/orenpad.png" width="150">
+</td>
+<td>
 
 A lightweight novel-writing app for Android
 
@@ -8,7 +15,7 @@ orenpad is a simple, offline-first writing app made for novelists who want their
 
 No account. No cloud. No ads.
 
-Features
+## Features
 
 - Novel & chapter management
 - Rich text editor
@@ -24,15 +31,15 @@ Features
 - Dark interface
 - Fully offline writing
 
-Screenshots
+## Screenshots
 
 Screenshots coming soon.
 
-# Download
+## Download
 
 The latest version is available from the [Releases](https://github.com/bettybell-dev/orenpad/releases/tag/0.2.0).
 
-Android
+## Android
 
 Build| Architecture
 "arm64-v8a"| Most modern Android devices
@@ -40,7 +47,7 @@ Build| Architecture
 
 Current version: "v0.2.0"
 
-Privacy
+## Privacy
 
 orenpad does not require an account or online service.
 
@@ -51,14 +58,14 @@ orenpad does not require an account or online service.
 - Works offline
 - Novel data is stored locally
 
-Roadmap
+## Roadmap
 
 - PDF export
 - More writing tools
 - Further editor improvements
 - Additional quality-of-life features
 
-About
+## About
 
 orenpad is currently focused on Android.
 
@@ -66,5 +73,5 @@ The project is still in active development, and features may change as the app e
 
 ---
 
-orenpad
+### orenpad
 Write. Save. Continue your story.
