@@ -1,17 +1,70 @@
-# orenpad
+## orenpad
 
-A new Flutter project.
+A lightweight novel-writing app for Android
 
-## Getting Started
+Write your stories without distractions.
 
-This project is a starting point for a Flutter application.
+orenpad is a simple, offline-first writing app made for novelists who want their writing to stay local, focused, and easy to manage.
 
-A few resources to get you started if this is your first Flutter project:
+No account. No cloud. No ads.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Novel & chapter management
+- Rich text editor
+  - Font selection
+  - Text size
+  - Bold and italic
+  - Text formatting tools
+- Word count
+- Chapter status
+- Image insertion
+- Auto save
+- Reader Mode
+- Dark interface
+- Fully offline writing
+
+Screenshots
+
+Screenshots coming soon.
+
+Download
+
+The latest version is available from the "Releases" (../../releases) page.
+
+Android
+
+Build| Architecture
+"arm64-v8a"| Most modern Android devices
+"armeabi-v7a"| Older 32-bit ARM devices
+
+Current version: "v0.2.0"
+
+Privacy
+
+orenpad does not require an account or online service.
+
+- No account
+- No server
+- No cloud storage
+- No advertisements
+- Works offline
+- Novel data is stored locally
+
+Roadmap
+
+- PDF export
+- More writing tools
+- Further editor improvements
+- Additional quality-of-life features
+
+About
+
+orenpad is currently focused on Android.
+
+The project is still in active development, and features may change as the app evolves.
+
+---
+
+orenpad
+Write. Save. Continue your story.
