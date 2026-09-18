@@ -28,9 +28,9 @@ Screenshots
 
 Screenshots coming soon.
 
-Download
+# Download
 
-The latest version is available from the "Releases" (../../releases) page.
+The latest version is available from the [Releases](.
 
 Android
 
